@@ -51,7 +51,7 @@ export interface Announcement {
 
 export const ANNOUNCEMENTS: Announcement[] = [
   { id: 1, pinned: true, title: 'Spring Schedule Now Open!', body: 'April sessions are now available for booking. Evening bachata slots fill up fast — secure your spot early.', date: '2026-03-10' },
-  { id: 2, pinned: false, title: 'Spring Break — No Classes March 23', body: 'No tutoring or dance sessions on March 23. Regular schedule resumes March 24.', date: '2026-03-08' },
+  { id: 2, pinned: false, title: 'Spring Break — No Classes March 31', body: 'No tutoring or dance sessions on March 31. Regular schedule resumes April 16th.', date: '2026-03-08' },
   { id: 3, pinned: false, title: 'New: Group Bachata Classes Added', body: 'Group bachata classes now every Tuesday evening. Limited to 8 students per class.', date: '2026-03-01' },
 ];
 
